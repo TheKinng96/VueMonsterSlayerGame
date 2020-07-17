@@ -108,6 +108,7 @@ button {
     }
     .title .columns h1 {
         font-size: 3.5rem;
+        margin: 5px 0;
     }
     .healthbar {
         height: 4rem;
